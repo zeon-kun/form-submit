@@ -31,6 +31,8 @@ const deleteUser = (id) => {
     },
   });
 };
+
+
 module.exports = {
   getAllUsers,
   getUserById,
